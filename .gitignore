@@ -1,0 +1,20 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+
+# Face recognition data
+data/
+embeddings/
+models/
+results/
+*.onnx
+*.pth
+*.pt
+*.ckpt
+
+# Local files
+.vscode/

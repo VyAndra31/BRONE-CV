@@ -1,0 +1,10 @@
+numpy
+opencv-python-headless
+onnxruntime
+onnx
+torch
+torchvision
+timm
+pillow
+pytest
+psutil

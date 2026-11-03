@@ -1,0 +1,3 @@
+[submodule "vendor/edgeface"]
+	path = vendor/edgeface
+	url = https://github.com/otroshi/edgeface.git

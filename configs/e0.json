@@ -1,0 +1,13 @@
+{
+  "detector": "SCRFD_500M_KPS",
+  "recognizer": "edgeface_xs_gamma_06",
+  "device": "cpu",
+  "detector_input_size": [640, 640],
+  "aligned_input_size": [112, 112],
+  "score_threshold": 0.5,
+  "nms_threshold": 0.4,
+  "embedding_dim": 512,
+  "gallery_policy": "one_shot_S1",
+  "threshold_split": "S2",
+  "test_split": "S3"
+}
